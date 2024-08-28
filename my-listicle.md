@@ -2,7 +2,7 @@
 ## [**_League of legends_**](https://www.leagueoflegends.com/en-us/)
 # **my favorite character** 
 * ### [_Zeri_](https://www.leagueoflegends.com/en-us/champions/zeri/) 
-#### ![**Zeri image**](taco.jpeg)
+#### ![**Zeri image**](image/taco.jpeg)
 * ### [_Aphelios_](https://www.leagueoflegends.com/en-us/champions/aphelios/)
 #### ![**Aphelios image**](https://liquipedia.net/leagueoflegends/File:Aphelios_0.jpg)
 * ### [_Lucian_](https://www.leagueoflegends.com/en-us/champions/lucian/)
